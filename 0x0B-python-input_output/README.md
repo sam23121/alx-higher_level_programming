@@ -1,0 +1,1 @@
+this a readme about python input and output
